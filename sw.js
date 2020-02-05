@@ -5,7 +5,9 @@ var cacheFiles = [
     '../Lab4_CW2/sw.js',
     '../Lab4_CW2/manifest.json',
     '../Lab4_CW2/app.js',
-    '../Lab4_CW2/images/icon144.png'
+    '../Lab4_CW2/images/icon144.png',
+    '../Lab4_CW2/images/icon96.png',
+    '../Lab4_CW2/images/icon64.png'
 
 ]
 
