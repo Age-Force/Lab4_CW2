@@ -1,4 +1,4 @@
-var casheName = "V1";
+var cacheName = "V1";
 var cacheFiles = [
     '../Lab4_CW2/',
     '../Lab4_CW2/index.html',
