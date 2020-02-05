@@ -1,0 +1,27 @@
+{
+    "name": "Todo Vue App",
+    "short_name": "ToDo",
+    "description": "Progressive Web App creates a todo list",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#42b983",
+    "background_color": "#fff",
+    "orientation" : "pottrait-primary",
+    "icons": [
+        {
+        "src": "./images/icon64.png",
+        "sizes":   "64x64",
+        "type": "image/png"
+        },
+        {
+            "src": "./images/icon96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/icon144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
